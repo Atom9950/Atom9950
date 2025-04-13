@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/sdeepr0" target="blank"><img src="https://img.shields.io/twitter/follow/sdeepr0?logo=twitter&style=for-the-badge" alt="sdeepr0" /></a> </p>
 
-- 🔭 I’m currently working on [Calcutta Cravings](https://github.com/Atom9950/Calcutta-Cravings)
+- 🔭 I’m currently working on [Taskflow]([https://github.com/Atom9950/Calcutta-Cravings](https://github.com/Atom9950/tasflow))
 
-- 🌱 I’m currently learning **Soliditary, React Native, Next Js**
+- 🌱 I’m currently learning **Machine Learning, React Native, Next Js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mu-two-54.vercel.app/#](https://portfolio-mu-two-54.vercel.app/#)
 
