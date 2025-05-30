@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, React Native, Next Js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mu-two-54.vercel.app/#](https://portfolio-mu-two-54.vercel.app/#)
+- 👨‍💻 All of my projects are available at [https://sd-atom.vercel.app/](https://sd-atom.vercel.app/)
 
 - 💬 Ask me about **react, javascript, html and css**
 
