@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sdeepr0" target="blank"><img src="https://img.shields.io/twitter/follow/sdeepr0?logo=twitter&style=for-the-badge" alt="sdeepr0" /></a> </p>
 
-- 🔭 I’m currently working on [Taskflow]([https://github.com/Atom9950/Calcutta-Cravings](https://github.com/Atom9950/tasflow))
+- 🔭 I’m currently working on Taskflow
 
 - 🌱 I’m currently learning **Machine Learning, React Native, Next Js**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sdroy001@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-mu-two-54.vercel.app/#](https://portfolio-mu-two-54.vercel.app/#)
+- 📄 Know about my experiences [https://sd-atom.vercel.app/](https://sd-atom.vercel.app/)
 
 - ⚡ Fun fact **I think I can't code!**
 
