@@ -10,19 +10,19 @@
 
 <p align="left"> <a href="https://twitter.com/sdeepr0" target="blank"><img src="https://img.shields.io/twitter/follow/sdeepr0?logo=twitter&style=for-the-badge" alt="sdeepr0" /></a> </p>
 
-- 🔭 I’m currently working on Taskflow
+- 🔭 I’m currently working on **Taskflow**
 
-- 🌱 I’m currently learning **Machine Learning, React Native, Next Js**
+- 🌱 I’m currently learning **Machine Learning, React, Next Js**
 
 - 👨‍💻 All of my projects are available at [https://sd-atom.vercel.app/](https://sd-atom.vercel.app/)
 
-- 💬 Ask me about **react, javascript, html and css**
+- 💬 Ask me about **React, Javascript, HTML and CSS**
 
 - 📫 How to reach me **sdroy001@gmail.com**
 
 - 📄 Know about my experiences [https://sd-atom.vercel.app/](https://sd-atom.vercel.app/)
 
-- ⚡ Fun fact **I think I can't code!**
+- ⚡ Fun fact **I think I can code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
