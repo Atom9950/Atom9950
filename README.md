@@ -2,7 +2,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*L_QoAG863l8QvqxpNyBiqw.gif" alt="MasterHead" width="100%" height="350">
 </div>
 
-<h1 align="center">Hi 👋, I'm Sayandeep!</h1>
+<h1 align="center">Hi 👋, I'm Sayandeep</h1>
 <h3 align="center">A passionate Web Developer and AI enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
 
