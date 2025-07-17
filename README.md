@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **Constructflow**
 
-- 🌱 I’m currently learning **Machine Learning, React, Next Js**
+- 🌱 I’m currently learning **Machine Learning, React & Next Js**
 
 - 👨‍💻 All of my projects are available at [https://sd-atom.vercel.app/](https://sd-atom.vercel.app/)
 
-- 💬 Ask me about **React, Javascript, HTML and CSS**
+- 💬 Ask me about **React, Next Js, Typescript & Javascript**
 
 - 📫 How to reach me **sdroy001@gmail.com**
 
