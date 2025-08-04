@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **Machine Learning, React & Next Js**
 
-- 👨‍💻 All of my projects are available at [Workfolio](https://sd-atom.vercel.app/)
+- 👨‍💻 All of my projects are available at [Atom](https://sd-atom.vercel.app/)
 
 - 💬 Ask me about **React, Next Js, Typescript & Javascript**
 
 - 📫 How to reach me **sdroy001@gmail.com**
 
-- 📄 Know about my experiences [https://sd-workfolio.vercel.app/](https://sd-workfolio.vercel.app/)
+- 📄 Know about my experiences [Workfolio](https://sd-workfolio.vercel.app/)
 
 - ⚡ Fun fact **I think I can code!**
 
