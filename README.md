@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sdroy001@gmail.com**
 
-- 📄 Know about my experiences [Workfolio](https://sd-workfolio.vercel.app/)
+- 📄 Know about my experiences at [Workfolio](https://sd-workfolio.vercel.app/)
 
 - ⚡ Fun fact **I think I can code!**
 
