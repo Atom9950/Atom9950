@@ -26,7 +26,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sdeepr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdeepr0" height="30" width="40" /></a>
+<a href="https://twitter.com/sdeepr0" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="x" height="30" width="40" />
+</a>
 <a href="https://www.linkedin.com/in/sayandeep-roy-4b1246265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayandeep-roy" height="30" width="40" /></a>
 <a href="https://instagram.com/sdroyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sdroyy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@AniShree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anishree" height="30" width="40" /></a>
