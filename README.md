@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Constructflow**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** and **React Native**
 
 - 👨‍💻 All of my projects are available at [Atom](https://sd-atom.vercel.app/)
 
