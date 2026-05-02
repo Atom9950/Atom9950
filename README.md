@@ -24,12 +24,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://twitter.com/sdeepr0" target="blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="x" height="30" width="40" style="display:inline-block;" /></a>
-  <a href="https://www.linkedin.com/in/sayandeep-roy-4b1246265/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="display:inline-block;" /></a>
-  <a href="https://instagram.com/sdroyy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="display:inline-block;" /></a>
-  <a href="https://www.youtube.com/@AniShree" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" style="display:inline-block;" /></a>
-</p>
+<table><tr>
+<td><a href="https://twitter.com/sdeepr0" target="blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="x" height="30" width="40"/></a></td>
+<td><a href="https://www.linkedin.com/in/sayandeep-roy-4b1246265/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a></td>
+<td><a href="https://instagram.com/sdroyy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/></a></td>
+<td><a href="https://www.youtube.com/@AniShree" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40"/></a></td>
+</tr></table>
 
 <h3 align="left">Languages and Tools:</h3>
 
